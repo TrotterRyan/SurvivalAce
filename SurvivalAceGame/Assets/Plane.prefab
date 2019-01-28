@@ -341,6 +341,7 @@ GameObject:
   - component: {fileID: 54339674626052050}
   - component: {fileID: 114480597017530218}
   - component: {fileID: 114299162227836092}
+  - component: {fileID: 114438765366048486}
   m_Layer: 0
   m_Name: Plane
   m_TagString: Death
@@ -1429,6 +1430,22 @@ MonoBehaviour:
   player: {fileID: 4761328426207292}
   planeModel: {fileID: 1133819680648830}
   otherPlayer: {fileID: 0}
+--- !u!114 &114438765366048486
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780549635458746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c51c4c965ca487149b2cbd34f7d7fc5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1922971018687422, guid: b0c9dbe19c3f296418f3d0aac4116bb5,
+    type: 2}
+  BulletSpeed: 0
+  BulletCooldownTime: 0
+  BulletLastFireTime: 0
 --- !u!114 &114472010063410828
 MonoBehaviour:
   m_ObjectHideFlags: 1
