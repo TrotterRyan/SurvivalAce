@@ -4,9 +4,9 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - player: {fileID: 400000, guid: d84f3c535e9ee22429fdbd8253ec0037, type: 3}
-  - planeModel: {fileID: 100002, guid: 784b9380f0c091844a32bc92339c7446, type: 3}
-  - otherPlayer: {instanceID: 0}
+  - player: {fileID: 4001657258979062, guid: 1173c3db6ba90764eb91174a3dbe2799, type: 2}
+  - planeModel: {fileID: 100000, guid: 784b9380f0c091844a32bc92339c7446, type: 3}
+  - otherPlayer: {fileID: 100000, guid: 664cbee4a8599194ca10e62bde0a4f00, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
